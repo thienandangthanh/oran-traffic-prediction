@@ -1,0 +1,3 @@
+[submodule "colosseum-oran-commag-dataset"]
+	path = colosseum-oran-commag-dataset
+	url = https://github.com/wineslab/colosseum-oran-commag-dataset
